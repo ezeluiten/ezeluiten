@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ezeluiten/ezeluiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer recien gradudado del Curso de soyHenry, donde aprendí las siguientes tecnologías:
 
-Here are some ideas to get you started:
+--> JavaScript
+--> React
+--> Redux
+--> Node.JS
+--> Express
+--> Sequalize
+--> PostgresSQL
+--> MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT me permitió expandir mi creatividad para llevar acabo proyectos reales a través del trabajo en equipo. Mi mayor destacamiento es mi capacidad para adaptarme a las adversidades nuevas y aprender de mis errores sin rendirme nunca.
+
+Disfruto de un ambiente armónico de trabajo, me gusta transmitir alegría, comodidad y motivación a mi entorno.
+
+Siempre estoy dispuesto e interesado en aprender y continuar creciendo al enfrentar nuevos retos.
