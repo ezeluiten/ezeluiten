@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Me llamo Ezequiel Luiten
+
 Full Stack Developer recien gradudado del Curso de soyHenry, donde aprendí las siguientes tecnologías:
 
 --> JavaScript
