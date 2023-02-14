@@ -16,3 +16,9 @@ IT me permitió expandir mi creatividad para llevar acabo proyectos reales a tra
 Disfruto de un ambiente armónico de trabajo, me gusta transmitir alegría, comodidad y motivación a mi entorno.
 
 Siempre estoy dispuesto e interesado en aprender y continuar creciendo al enfrentar nuevos retos.
+
+
+Puedes contactarme a travez de los siguientes links:
+
+--> ezequiel.luiten@gmail.com
+--> https://www.linkedin.com/in/ezequiel-luiten-5b0710224/
